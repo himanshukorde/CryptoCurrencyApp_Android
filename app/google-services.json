@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1019418974677",
+    "project_id": "coinvault-a6b5d",
+    "storage_bucket": "coinvault-a6b5d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1019418974677:android:a44b30e449cae4fde5055c",
+        "android_client_info": {
+          "package_name": "com.crypto.coinvault_"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBX2Vvm68mXs5oqie-V_aZ4CHIuEBGjrJg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
